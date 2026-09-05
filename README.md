@@ -4,7 +4,7 @@
 
 > Landing page profissional e responsiva desenvolvida para um restaurante japonês premium (Omakase), com foco em alta conversão e sofisticação visual.
 
-🌐 **Live Demo:** [Totoro Sushi Experience](https://totoro-sushi-experience.lovable.app/)
+🌐 **Live Demo:** [Totoro Sushi Experience](https://totoro-sushi-landing.lovable.app/)
 
 ## 🍱 Sobre o Projeto
 Este projeto foi concebido para transmitir a essência do *Wabi-Sabi* (beleza na simplicidade) e do *Omotenashi* (hospitalidade japonesa). O design utiliza uma paleta de cores escura (preto e carvão) com acentos em dourado, criando uma atmosfera exclusiva que guia o visitante desde a descoberta visual até a reserva.
